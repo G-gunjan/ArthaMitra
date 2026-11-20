@@ -1,15 +1,15 @@
-# SmartDesk --- Banking Intent Classifier & AI Assistant
 
-> **Project type:** NLP / Machine Learning / Streamlit application\
-> **Working UI title in the supplied code:** ArthMitra -- Banking AI
-> Assistant\
-> **Primary use case:** Analyse banking-support messages, identify
-> likely intent and urgency, and provide multilingual guidance.
 
 SmartDesk is a prototype banking customer-support assistant. It combines
 a fine-tuned TinyBERT intent classifier, DistilBERT sentiment analysis,
 rule-based banking issue and priority detection, FAQ recommendations,
 prediction history, CSV export, and an Ollama-powered Qwen chatbot.
+
+## 🎥 Project Demo
+
+Watch the working demo of ArthaMitra – Banking AI Assistant:
+
+https://github.com/G-gunjan/ArthaMitra/blob/main/screen-capture.webm
 
 ------------------------------------------------------------------------
 
