@@ -9,8 +9,7 @@ prediction history, CSV export, and an Ollama-powered Qwen chatbot.
 
 Watch the working demo of ArthaMitra – Banking AI Assistant:
 
-https://github.com/G-gunjan/ArthaMitra/blob/main/screen-capture.webm
-
+https://drive.google.com/file/d/1kxq60woYySWunxuYXFEDX14HYuwZ9J9O/view?usp=sharing
 ------------------------------------------------------------------------
 
 ## Table of contents
